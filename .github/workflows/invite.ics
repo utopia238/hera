@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//swoogo.com//NONSGML kigkonsult.se iCalcreator 2.27.21//
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+UID:b0e5f288c701c89653c3e5acceeced86c270b4bb@swoogo.com
+DTSTAMP:20230611T151353Z
+DESCRIPTION:Thanks for registering. We can't wait to build the future of fi
+ nance together. Look out for sneak peeks of our agenda leading up to the e
+ vent. Watch Threads 2023 on June 22 at 9 AM PT.\n
+DTSTART:20230622T160000Z
+DTEND:20230622T173000Z
+LAST-MODIFIED:20230611T151353Z
+LOCATION:https://threads.plaid.com/begin/v/e?i=BlM6SCnYZcngzzrR76kPhXofhE7p
+ zvpA_1686496432
+ORGANIZER;CN=Plaid Events:threads@plaid.com
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Threads 2023
+TRANSP:OPAQUE
+X-ALT-DESC;FMTTYPE=text/html:<p>Thanks for registering. We can't wait to bu
+ ild the future of finance together. Look out for sneak peeks of our agenda
+  leading up to the event. Watch Threads 2023 on June 22 at 9 AM PT.</p>
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Thanks for registering. We can't wait to build the future of fi
+ nance together. Look out for sneak peeks of our agenda leading up to the e
+ vent. Watch Threads 2023 on June 22 at 9 AM PT.\n
+TRIGGER:-PT15M
+END:VALARM
+END:VEVENT
+END:VCALENDAR
+
